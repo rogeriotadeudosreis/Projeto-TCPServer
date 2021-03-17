@@ -1,0 +1,9 @@
+50;autor a#
+57;autor b#
+58;autor c#
+65;autor d#
+66;autor e#
+67;autor f#
+68;autor h#
+69;autor i#
+67;autor edivan#
